@@ -1,0 +1,345 @@
+# depslib dependency file v1.0
+1475846704 source:d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\main.cpp
+	"header.h"
+
+1475845609 source:d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\gaus.cpp
+	"header.h"
+
+1475835443 d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\header.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+
+1475838481 d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\grayscale.cpp
+	"grayscale.h"
+
+1475845604 source:d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\grayscale.cpp
+	"header.h"
+
+1475835443 source:d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\header.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+
+1475839366 d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\gaus.cpp
+	"gaus.h"
+
+1475836662 source:d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\laplacegaus2.cpp
+
+1475838744 d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\grayscale.h
+	<iostream>
+	<cv.h>
+	<highgui.h>
+
+1475839302 d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\gaus.h
+	<iostream>
+	<cv.h>
+	<highgui.h>
+
+1475845882 d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\header.h
+	<iostream>
+	<string>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	<sstream>
+
+1475845614 source:d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\rataan.cpp
+	"header.h"
+
+1475846945 source:d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\laplacegaus.cpp
+	"header.h"
+
+1475845624 source:d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\imagethresholding.cpp
+	"header.h"
+
+1475845726 source:d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\imagenegatif.cpp
+	"header.h"
+
+1475845801 source:d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\contractstretching.cpp
+	"header.h"
+
+1475845838 source:d:\tugas\ppcd\kuliah\tugas pertemuan 4\convolutiontask\tugas\imagesubstraction.cpp
+	"header.h"
+
+1475845801 source:d:\tugas\ppcd\kuliah\histogram\tugas\contractstretching.cpp
+	"header.h"
+
+1476321977 d:\tugas\ppcd\kuliah\histogram\tugas\header.h
+	<iostream>
+	<string>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	<opencv2/imgproc/imgproc.hpp>
+	<sstream>
+	<math.h>
+
+1475845609 source:d:\tugas\ppcd\kuliah\histogram\tugas\gaus.cpp
+	"header.h"
+
+1475845604 source:d:\tugas\ppcd\kuliah\histogram\tugas\grayscale.cpp
+	"header.h"
+
+1475845726 source:d:\tugas\ppcd\kuliah\histogram\tugas\imagenegatif.cpp
+	"header.h"
+
+1475845838 source:d:\tugas\ppcd\kuliah\histogram\tugas\imagesubstraction.cpp
+	"header.h"
+
+1475845624 source:d:\tugas\ppcd\kuliah\histogram\tugas\imagethresholding.cpp
+	"header.h"
+
+1475846945 source:d:\tugas\ppcd\kuliah\histogram\tugas\laplacegaus.cpp
+	"header.h"
+
+1475845614 source:d:\tugas\ppcd\kuliah\histogram\tugas\rataan.cpp
+	"header.h"
+
+1476321881 source:d:\tugas\ppcd\kuliah\histogram\tugas\orihistogram.cpp
+	"header.h"
+
+1476369343 source:d:\tugas\ppcd\kuliah\histogram\tugas\main.cpp
+	"header.h"
+
+1476257704 source:d:\tugas\ppcd\kuliah\histogram\tugas\showhistogram.cpp
+	"header.h"
+
+1476323014 source:d:\tugas\ppcd\kuliah\histogram\tugas\shownormalizehistogram.cpp
+	"header.h"
+
+1476370728 source:d:\tugas\ppcd\kuliah\histogram\tugas\showoriginalhistogram.cpp
+	"header.h"
+
+1476323000 source:d:\tugas\ppcd\kuliah\histogram\tugas\showakumulasihistogram.cpp
+	"header.h"
+
+1476323270 source:d:\tugas\ppcd\kuliah\histogram\tugas\showequalizedhistogram.cpp
+	"header.h"
+
+1476369977 source:d:\tugas\ppcd\kuliah\histogram\tugas\calchistogram.cpp
+	"header.h"
+
+1476372228 source:d:\tugas\ppcd\kuliah\dft\tugas\calchistogram.cpp
+	"header.h"
+
+1476885391 d:\tugas\ppcd\kuliah\dft\tugas\header.h
+	<iostream>
+	<string>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	<opencv2/imgproc/imgproc.hpp>
+	<sstream>
+	<math.h>
+
+1475845801 source:d:\tugas\ppcd\kuliah\dft\tugas\contractstretching.cpp
+	"header.h"
+
+1475845609 source:d:\tugas\ppcd\kuliah\dft\tugas\gaus.cpp
+	"header.h"
+
+1475845604 source:d:\tugas\ppcd\kuliah\dft\tugas\grayscale.cpp
+	"header.h"
+
+1475845726 source:d:\tugas\ppcd\kuliah\dft\tugas\imagenegatif.cpp
+	"header.h"
+
+1475845838 source:d:\tugas\ppcd\kuliah\dft\tugas\imagesubstraction.cpp
+	"header.h"
+
+1475845624 source:d:\tugas\ppcd\kuliah\dft\tugas\imagethresholding.cpp
+	"header.h"
+
+1475846945 source:d:\tugas\ppcd\kuliah\dft\tugas\laplacegaus.cpp
+	"header.h"
+
+1475845614 source:d:\tugas\ppcd\kuliah\dft\tugas\rataan.cpp
+	"header.h"
+
+1476323000 source:d:\tugas\ppcd\kuliah\dft\tugas\showakumulasihistogram.cpp
+	"header.h"
+
+1476323270 source:d:\tugas\ppcd\kuliah\dft\tugas\showequalizedhistogram.cpp
+	"header.h"
+
+1476257704 source:d:\tugas\ppcd\kuliah\dft\tugas\showhistogram.cpp
+	"header.h"
+
+1476372240 source:d:\tugas\ppcd\kuliah\dft\tugas\shownormalizehistogram.cpp
+	"header.h"
+
+1476370728 source:d:\tugas\ppcd\kuliah\dft\tugas\showoriginalhistogram.cpp
+	"header.h"
+
+1476894019 source:d:\tugas\ppcd\kuliah\dft\tugas\dft.cpp
+	"header.h"
+
+1476893900 source:d:\tugas\ppcd\kuliah\dft\tugas\main.cpp
+	"header.h"
+
+1476885510 source:d:\tugas\ppcd\kuliah\dft\tugas\dftopencv.cpp
+	"header.h"
+
+1476372228 source:d:\tugas\ppcd\kuliah\color\calchistogram.cpp
+	"header.h"
+
+1477902852 d:\tugas\ppcd\kuliah\color\header.h
+	<iostream>
+	<string>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	<opencv2/imgproc/imgproc.hpp>
+	<sstream>
+	<math.h>
+
+1475845801 source:d:\tugas\ppcd\kuliah\color\contractstretching.cpp
+	"header.h"
+
+1476894019 source:d:\tugas\ppcd\kuliah\color\dft.cpp
+	"header.h"
+
+1476885510 source:d:\tugas\ppcd\kuliah\color\dftopencv.cpp
+	"header.h"
+
+1475845609 source:d:\tugas\ppcd\kuliah\color\gaus.cpp
+	"header.h"
+
+1475845604 source:d:\tugas\ppcd\kuliah\color\grayscale.cpp
+	"header.h"
+
+1475845726 source:d:\tugas\ppcd\kuliah\color\imagenegatif.cpp
+	"header.h"
+
+1475845838 source:d:\tugas\ppcd\kuliah\color\imagesubstraction.cpp
+	"header.h"
+
+1475845624 source:d:\tugas\ppcd\kuliah\color\imagethresholding.cpp
+	"header.h"
+
+1475846945 source:d:\tugas\ppcd\kuliah\color\laplacegaus.cpp
+	"header.h"
+
+1475845614 source:d:\tugas\ppcd\kuliah\color\rataan.cpp
+	"header.h"
+
+1476323000 source:d:\tugas\ppcd\kuliah\color\showakumulasihistogram.cpp
+	"header.h"
+
+1476323270 source:d:\tugas\ppcd\kuliah\color\showequalizedhistogram.cpp
+	"header.h"
+
+1476257704 source:d:\tugas\ppcd\kuliah\color\showhistogram.cpp
+	"header.h"
+
+1476372240 source:d:\tugas\ppcd\kuliah\color\shownormalizehistogram.cpp
+	"header.h"
+
+1476370728 source:d:\tugas\ppcd\kuliah\color\showoriginalhistogram.cpp
+	"header.h"
+
+1477903041 source:d:\tugas\ppcd\kuliah\color\main.cpp
+	"header.h"
+
+1476372228 source:d:\tugas\ppcd\kuliah\kematanganapple\calchistogram.cpp
+	"header.h"
+
+1482658764 d:\tugas\ppcd\kuliah\kematanganapple\header.h
+	<iostream>
+	<string>
+	<cv.h>
+	<highgui.h>
+	<cxcore.h>
+	<opencv2/imgproc/imgproc.hpp>
+	<sstream>
+	<math.h>
+	<vector>
+	"cLVQ1.h"
+
+1475845801 source:d:\tugas\ppcd\kuliah\kematanganapple\contractstretching.cpp
+	"header.h"
+
+1476894019 source:d:\tugas\ppcd\kuliah\kematanganapple\dft.cpp
+	"header.h"
+
+1476885510 source:d:\tugas\ppcd\kuliah\kematanganapple\dftopencv.cpp
+	"header.h"
+
+1475845609 source:d:\tugas\ppcd\kuliah\kematanganapple\gaus.cpp
+	"header.h"
+
+1475845604 source:d:\tugas\ppcd\kuliah\kematanganapple\grayscale.cpp
+	"header.h"
+
+1475845726 source:d:\tugas\ppcd\kuliah\kematanganapple\imagenegatif.cpp
+	"header.h"
+
+1475845838 source:d:\tugas\ppcd\kuliah\kematanganapple\imagesubstraction.cpp
+	"header.h"
+
+1475845624 source:d:\tugas\ppcd\kuliah\kematanganapple\imagethresholding.cpp
+	"header.h"
+
+1475846945 source:d:\tugas\ppcd\kuliah\kematanganapple\laplacegaus.cpp
+	"header.h"
+
+1475845614 source:d:\tugas\ppcd\kuliah\kematanganapple\rataan.cpp
+	"header.h"
+
+1476323000 source:d:\tugas\ppcd\kuliah\kematanganapple\showakumulasihistogram.cpp
+	"header.h"
+
+1476323270 source:d:\tugas\ppcd\kuliah\kematanganapple\showequalizedhistogram.cpp
+	"header.h"
+
+1476257704 source:d:\tugas\ppcd\kuliah\kematanganapple\showhistogram.cpp
+	"header.h"
+
+1476372240 source:d:\tugas\ppcd\kuliah\kematanganapple\shownormalizehistogram.cpp
+	"header.h"
+
+1476370728 source:d:\tugas\ppcd\kuliah\kematanganapple\showoriginalhistogram.cpp
+	"header.h"
+
+1478480765 source:d:\tugas\ppcd\kuliah\kematanganapple\showycbcr.cpp
+	"header.h"
+
+1482730555 source:d:\tugas\ppcd\kuliah\kematanganapple\main.cpp
+	"header.h"
+	"globals.h"
+	"cLVQ1.h"
+
+1481946842 source:d:\tugas\ppcd\kuliah\kematanganapple\detection.cpp
+	"header.h"
+
+1481948762 source:d:\tugas\ppcd\kuliah\kematanganapple\cutimage.cpp
+	"header.h"
+
+1482657145 source:d:\tugas\ppcd\kuliah\kematanganapple\calccolorhistogram.cpp
+	"header.h"
+
+1482060633 source:d:\tugas\ppcd\kuliah\kematanganapple\shownormalizecolorhistogram.cpp
+	"header.h"
+
+1482633408 source:d:\tugas\ppcd\kuliah\kematanganapple\showcolorhistogram.cpp
+	"header.h"
+
+1482063605 source:d:\tugas\ppcd\kuliah\kematanganapple\calcdistancehistogram.cpp
+
+1482110176 source:d:\tugas\ppcd\kuliah\kematanganapple\calcripe.cpp
+	"header.h"
+
+1482713481 d:\tugas\ppcd\kuliah\kematanganapple\clvq1.h
+	"globals.h"
+
+1482658781 d:\tugas\ppcd\kuliah\kematanganapple\globals.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"cLVQ1.h"
+
+1482713139 source:d:\tugas\ppcd\kuliah\kematanganapple\clvq1.cpp
+	"globals.h"
+	"cLVQ1.h"
+
